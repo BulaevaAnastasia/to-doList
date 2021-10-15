@@ -25,6 +25,7 @@ window.onload = function init() {  //событие load на объекте win
   //const tasks = JSON.parse(localStorage.getItem('tasks'));
   //input.addEventListener('keyup', updateValue1); //вернуться к этому моменту
   //input.addEventListener('keydown', updateValue2);
+  //bulbazavr
 };
 
 const updateValue = (event) => { //функция принимает параметром событие (здесть это change)
